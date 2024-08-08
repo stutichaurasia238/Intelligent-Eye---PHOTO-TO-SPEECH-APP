@@ -15,7 +15,7 @@
 		<li><a href="#model-explanation">Model Explanation</a></li>
 		<li><a href="#usage-and-example">Usage and Example</a></li>
 		<li><a href="#troubleshooting-and-faqs">Troubleshooting and FAQs</a></li>
-	</ul>
+	
 	
 	<h2 id="introduction">Introduction</h2>
 	<p>Welcome to the Intelligent Image Captioning Project! This project uses Artificial Intelligence (AI) to generate captions for images. The project utilizes a deep learning model to analyze images and produce accurate and meaningful captions.</p>
@@ -59,3 +59,4 @@
 		<li><strong>extract_features.py</strong>: This module uses the VGG16 model to extract features from images.</li>
 		<li><strong>generate_desc.py</strong>: This module uses a Recurrent Neural Network (RNN) to generate captions based on the extracted features.</li>
 	
+</ul>
