@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Intelligent Eye</title>
+	<title>Photo to Speech</title>
 </head>
 <body>
-	<h1>Intelligent Image Captioning Project</h1>
+	<h1>Intelligent Eye</h1>
 	<h2>Table of Contents</h2>
 	<ul>
 		<li><a href="#introduction">Introduction</a></li>
