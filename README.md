@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Photo to Speech</title>
+	
 </head>
 <body>
 	<h1>Intelligent Eye</h1>
